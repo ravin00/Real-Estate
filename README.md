@@ -1,1 +1,1 @@
-used Tech stcak mern with JWT and reduxtool kit 
+Used Tech stcak mern with JWT and reduxtool kit 
